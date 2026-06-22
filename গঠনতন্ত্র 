@@ -1,0 +1,17 @@
+index.html           ← হোম পেজ
+about.html           ← আমাদের সম্পর্কে
+constitution.html    ← গঠনতন্ত্র (৪ পৃষ্ঠা)
+membership.html      ← সদস্য আবেদন ফরম
+gallery.html         ← গ্যালারি
+contact.html         ← যোগাযোগ
+logo.jpg             ← লোগো
+<a href="index.html">হোম</a>
+<a href="about.html">আমাদের সম্পর্কে</a>
+<a href="constitution.html">গঠনতন্ত্র</a>
+<a href="membership.html">সদস্য আবেদন</a>
+<a href="gallery.html">গ্যালারি</a>
+<a href="contact.html">যোগাযোগ</a>
+<img src="page1.jpg" width="100%">
+<img src="page2.jpg" width="100%">
+<img src="page3.jpg" width="100%">
+<img src="page4.jpg" width="100%">
